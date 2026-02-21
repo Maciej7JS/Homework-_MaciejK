@@ -49,7 +49,6 @@ console.log(names[3]);
 //PRACA DOMOWA Zad 3.
 for (let i = 1; i <= 20; i++, i++) {
   console.log(i);
-
 }
 
 
@@ -63,4 +62,5 @@ else if (temperature > 15) {
 }
 else {
   console.log("Chłodno. Przyda się kurtka");
+
 }
